@@ -55,7 +55,7 @@ To make testing easy, I have integrated **Swagger UI**. You do not need Postman;
 1. Ensure the server is running.
 2. Open your browser to: **[http://localhost:3333/api/docs](https://www.google.com/search?q=http://localhost:3333/api/docs)**
 
-> **Online Demo:** An online version has been made available for ease of assessment here: [INSERT_LINK_HERE]
+> **Online Demo:** An online version has been made available for ease of assessment here: [health-tech-backend-production.up.railway.app](https://health-tech-backend-production.up.railway.app/)
 
 ### Core Endpoints
 
